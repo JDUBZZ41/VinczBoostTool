@@ -1,0 +1,34 @@
+{
+  "Username": "",
+  "Password": "",
+  "Miscellaneous_Settings": {
+    "Proxyless": true
+  },
+  "Captcha_Settings": {
+    "Service": "hcoptcha",
+    "API_Key": ""
+  },
+  "Discord_Settings": {
+    "Webhook_URL": "",
+    "Webhook_Name": "",
+    "Webhook_Avatar": "",
+    "Embed_Color": "#FFC0CB"
+  },
+  "Customization_Settings": {
+    "Name": "!Vincz Boosts",
+    "Bio": "Boosted by https://discord.gg/vboosts Cheap Boosts & UHQ Tools",
+    "Avatar": "logo.jpg",
+    "Banner": "banner.png"
+  },
+  "Onliner_Settings": {
+    "Enabled": true,
+    "Custom_Activity": {
+      "Enabled": true,
+      "Delay": 3,
+      "Status": "Playing",
+      "Activity 1": "Vincz Boosts",
+      "Activity 2": "Check Bio",
+      "Activity 3": "Cheap Boosts"
+    }
+  }
+}
